@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"nombre": "Iphone  20",
+		"marca": "Apple",
+		"categoria": "Telefono"
+	},
+	{
+		"id": 2,
+		"nombre": "F24T35",
+		"marca": "Samsung",
+		"categoria": "Monitor"
+	},
+	{
+		"id": 3,
+		"nombre": "Hero G502",
+		"marca": "Logitech",
+		"categoria": "Mouse"
+	}
+]
